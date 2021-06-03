@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris. 5 March. 1646. Whereas by severall Acts of Parliament provision is made for repairing and amending of the high waies of this kingdome  ...</title>
+            <title>Proceedings. 1647-03-05</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83925</idno><idno type="EEBO-CITATION">99897655</idno>
+  <idno type="VID">170896</idno>
+  <idno type="EEBO-PROQUEST">2248509362</idno>
+  
+            <idno type="STC">Wing E2867aA</idno>
+            <idno type="STC">ESTC R232067</idno>
+            <idno type="PROQUEST">99897655</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897655e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2515:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris. 5 March. 1646. Whereas by severall Acts of Parliament provision is made for repairing and amending of the high waies of this kingdome  ...</title>
+                  <title>Proceedings. 1647-03-05</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the Old Baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1646. [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from heading and first lines of text.</note>
+                  <note>Year given according to Lady Day dating.</note>
+                  <note>Dated at end: Die Veneris 5. March. 1646. Ordered by the Lords assembled in Parliament, that this declaration be printed and published, and that the judges at the next assizes cause the same to be proclaimed in their severall circuits by their cryer respectively. Joh. Brown Cler. Parliament.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Highway law --  England --  Early works to 1800.</term>
+               <term type="topical_term">Public welfare --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_proclamation">
+            <pb facs="tcp:170896:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris. 5 March. 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by severall Acts of Parliament Provision is made for repairing and amending of the High Waies of this Kingdome, whereby such as travell may safely and securely passe too, and from one place of the Kingdome to another without danger; But by rea<g ref="char:EOLhyphen"/>son of the distraction of these unhappy times the care thereof hath been altogether neglected, by which meanes most of the said Waies in this Kingdome, <hi>and especially the great Road-waies leading unto the City of London,</hi> are likely to become unpassable, <hi>but with danger to the Persons of all Travellers, and losse of their Horse, Coaches, and Waggons.</hi> The Lords now Assembled in this present Parliament taking the same into their consideration, doe hereby Order, That the Judges and Justices of Assize, and Commissioners of Oyer and Terminer, and generall Goale delivery in their severall Circuits, and Justices of Peace in their Sessions, doe strictly and carefully put in Execu<g ref="char:EOLhyphen"/>tion the said Lawes so made, for repairing of High Waies as aforesaid, and that the said Judges, and Justices of Assize, Comissioners of Oyer and Termi<g ref="char:EOLhyphen"/>ner, and generall Goale delivery, doe give the said Acts of Parliament in Charges at the Assizes in all the Countries where they shall come and keep Assizes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris 5. March. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords Assembled in Parliament, That this Declaration be printed and published, and that the Judges at the next Assizes cause the same to be proclaimed in their severall Circuits by their Cryer respectively.</hi>
+                        </p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the Old Baily. 1646.</p>
+            <pb facs="tcp:170896:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
